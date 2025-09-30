@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+authors:
+  - family-names: "Villacorta García"
+    given-names: "Gabriela Alessandra"
+    affiliation: "Universidad de El Salvador"
+title: "Modelado de la cámara gamma Symbia Intevo 16 en SIMIND"
+version: "1.0.0"
+date-released: "2025-09-30"
+license: "Apache-2.0"
+repository-code: "https://github.com/gabriela-alessandra-villacorta-garcia/simind"
