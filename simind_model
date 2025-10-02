@@ -1,0 +1,19 @@
+Modelo del equipo SPECT: Symbia Intevo 16
+
+Geometría del detector:
+Material: NaI(Tl)
+Geometría: Rectangular
+Número de cabezales: 2
+Grosor del cristal: 9.5 mm
+Campo de Visión (FOV): 53.5 cm x 38.7 cm
+Número de PMTs: 59
+
+Colimador:
+Material: Plomo
+Geometría: Agujeros paralelos
+Longitud: 25 mm
+Diámetro efectivo: 1.5-1.6 mm
+Ancho de Septa: 0.2 mm
+
+Parámetros adicionales:
+Ventana de energía: fotopico en 140 KeV (tc-99m), con ancho de ventana del 20%
